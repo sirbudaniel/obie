@@ -1,0 +1,3 @@
+[console_scripts]
+obie = obie.main:run
+
